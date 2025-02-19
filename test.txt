@@ -5,3 +5,8 @@ git status
 git add .
 git commit -m ""
 git log
+
+creating a new branch_ git checkout -b
+if you want to move _ git checkout name of branch_
+if you wan to delite a branch _ git branch -D name of Branch
+if you want to mege> git marge and name 
